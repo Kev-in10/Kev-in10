@@ -1,7 +1,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&size=40&duration=2000&color=4AF7B2&multiline=true&random=false&height=100&lines=Hi+%F0%9F%91%8B+;I'm+Kevin+Sam!" alt="kevinsam" /></a>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sidharthzidzid&label=Profile%20views&color=008000&style=flat" alt="sidharthzidzid" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Kev-in10&label=Profile%20views&color=008000&style=flat" alt="kevinsam" /> </p>
 
 - 🌱 I’m currently learning **App and Web Development**
 
@@ -30,20 +30,18 @@ I know to create android application using block programming software.
 So that's me thank you.</h3>
 <hr>
 <h3>My github status</h3>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sidharthzidzid" alt="sidharthzidzid" /></a> </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sidharthzidzid&show_icons=true&locale=en&layout=compact" alt="sidharthzidzid" /></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Kev-in10" alt="kevin" /></a> </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kev-in10&show_icons=true&locale=en&layout=compact" alt="kevin" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sidharthzidzid&show_icons=true&locale=en" alt="sidharthzidzid" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Kev-in10&show_icons=true&locale=en" alt="kevin" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sidharthzidzid&" alt="sidharthzidzid" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Kev-in10&" alt="kevin" /></p>
 <h1 align="center">Skills</h1>
 <hr>
-<img src ="https://skillicons.dev/icons?i=c,cpp,python,java,flutter,androidstudio,html,css"/>
- <img src ="https://skillicons.dev/icons?i=javascript,arduino,raspberrypi,github,linux,nodejs,php,vscode"/>
+<img src ="https://skillicons.dev/icons?i=kali,linux,debian,python,html,css,php,js,git,github,vscode"/>
  
  <h1 align="center">Connect with me</h1>
  <hr>
-<a href="https://www.linkedin.com/in/sidharth-v-nair-aa2111256?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-blue?style=social&logo=linkedin"/></a>
-<a href="https://instagram.com/sidharth_v_nair?igshid=NGVhN2U2NjQ0Yg=="><img alt="Static Badge" src="https://img.shields.io/badge/Instagram-blue%20?style=social&logo=instagram&logoColor=red-blue"/></a>
-<a href="https://x.com/SidharthVNair?t=BsOCmC649VZYq53bd6qExQ&s=09"><img alt="Static Badge" src="https://img.shields.io/badge/twitter-blue?style=social&logo=X"/></a>
-<a href="mailto:sidharthvnair3@gmail.com"><img alt="Static Badge" src="https://img.shields.io/badge/Email-blue?style=social&logo=Gmail&logoColor=Red"/></a>
+<a href="https://www.linkedin.com/in/kevin-sam-70a364235/"><img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-blue?style=social&logo=linkedin"/></a>
+
+<a href="mailto:kevinsam425@gmail.com"><img alt="Static Badge" src="https://img.shields.io/badge/Email-blue?style=social&logo=Gmail&logoColor=Red"/></a>
