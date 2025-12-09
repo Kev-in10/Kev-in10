@@ -3,11 +3,11 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Kev-in10&label=Profile%20views&color=008000&style=flat" alt="kevinsam" /> </p>
 
-- 🌱 I’m currently learning **App and Web Development**
+- 🌱 I’m currently learning **Shell scripting,linux,Network fundamntals and Automation using Python.**
 
-- 💬 Ask me about **programming related flutter, python, Web development**
+- 💬 Ask me about **Cybersecurity,Linux,Python,Networks etc.**
 
-- 📫 How to reach me **sidharthvnair3@gmail.com**
+- 📫 How to reach me **kevinsam425@gmail.com**
 
 - ⚡ Fun fact **I'm funny**
   <br>
